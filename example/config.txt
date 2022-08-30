@@ -1,0 +1,2 @@
+Prefix plugins/CoverageCount/example
+Plugin CoverageCount inputfile parameters.txt outputfile output
